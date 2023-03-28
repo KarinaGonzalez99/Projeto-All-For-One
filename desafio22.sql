@@ -1,1 +1,1 @@
-SELECT id FROM products;
+UPDATE order_details SET discount = 15;
